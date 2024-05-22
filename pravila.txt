@@ -22,6 +22,7 @@ Slijed igre:
   a ako ni nakon toga nema rješenja, prikazuje se rješenje i prelazi se na sljedeću igru s trenutno osvojenim bodovima
 
 Bodovanje:
+
     - Rješenje stupca nosi 5 bodova
     - Svaki otvoreni pojam smanjuje rješenje stupca za 1 bod
     - Konačno rješenje nosi 25 bodova
