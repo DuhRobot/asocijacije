@@ -1,0 +1,40 @@
+IGRA ASOCIJACIJA -> Pisana i nepisana pravila
+
+- Igra se sastoji od 10 asocijacija
+- Igraju dva protivnička tima naizmjence, svaki otvara 5 igara
+- Tim koji prvi kreće određuje se dogovorom, najbržim prstom, ...
+- Naziv tima koji je na redu svijetli zeleno
+
+Slijed igre:
+
+    1. Tim otvara polje A1 - D4
+    2. Pokušava pogoditi rješenje stupca ili konačno rješenje
+    3. Ako tim nije pogodio rješenje stupca, nema pravo pogađati konačno rješenje
+
+- Ako su sva polja otvorena, tim pokušava pogoditi rješenje bilo kojeg stupca ili konačno rješenje
+- Ako tim ne pogodi rješenje stupca, nema pravo pogađati konačno rješenje
+- Ako su svi stupci pogođeni, igrač pokušava pogoditi konačno rješenje
+- Ako ne pogodi stupac ili konačno rješenje, igru nastavlja protivnički tim
+
+- Nije dozvoljeno pogađati rješenje nekog stupca, bez otvaranja polja, osim kad su sva polja otvorena
+- Ako tim ne zna odgovor, može igru prepustiti protivničkom timu.
+- Ako ni jedan tim ne zna odgovor, nakon 10 minuta (timer je u gornjem desnom kutu), moguće je svakom timu dati po jedan hint (mala pomoć),
+  a ako ni nakon toga nema rješenja, prikazuje se rješenje i prelazi se na sljedeću igru s trenutno osvojenim bodovima
+
+Bodovanje:
+    - Rješenje stupca nosi 5 bodova
+    - Svaki otvoreni pojam smanjuje rješenje stupca za 1 bod
+    - Konačno rješenje nosi 25 bodova
+    - Svaki pogođeni stupac smanjuje konačno rješenje za 5 bodova
+
+Napomene:
+
+- Kao točni odgovori se priznaju samo oni kod kojih je naglašeno da se daje rješenje stupca ili konačno rješenje
+- "Razmišljanja na glas" se neće uzimati u obzir - ona samo pomažu protivničkom timu da lakše dođe do rješenja
+- U slučaju tehničkih problema ili greške u koracima NE PANIČARITI - sve ćemo riješiti na svestrano zadovoljstvo!
+- Pojmovi u igri su na engleskom i hrvatskom jeziku, jer neke pojmove nije moguće (doslovno) prevesti, ako ima nejasnoća - pitajte!
+
+Za igranje nije potrebno posebno znanje, jer rješenja svi znamo, to su većinom pojmovi iz klasićnog Treka.
+Ideja je da se svi skupa zabavimo, a tempo i razvoj igre će svakako odrediti redoslijed otvaranja pojmova i individualni tijek misli koji svatko od nas ima!
+
+Ugodnu zabavu svima! - Mr.Spock \/_
